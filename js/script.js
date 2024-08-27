@@ -9,7 +9,7 @@ const global = {
     },
     api: {
       apiKey: 'b68a6971f2edf075fce4c87cd9a5dddb',
-      apiUrl: 'HTTPS://api.themoviedb.org/3/'
+      apiUrl: 'HTTP://api.themoviedb.org/3/'
     }
 };
 
